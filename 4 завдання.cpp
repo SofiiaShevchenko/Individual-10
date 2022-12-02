@@ -24,5 +24,7 @@ int main()
     cout << "Result a = " << a << endl;
     cout << "Result c = " << c << endl;
     cout << "Result y = " << y << endl;
+    
+    return 0;
 
 }
