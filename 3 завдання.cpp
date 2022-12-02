@@ -26,6 +26,8 @@ int main()
 
 	cout << "Результат z1 = " << z1 << endl;
 	cout << "Результат z2 = " << z2 << endl;
-
+	
+	return 0;
+	
 }
 
