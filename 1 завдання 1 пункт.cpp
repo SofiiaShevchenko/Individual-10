@@ -22,5 +22,7 @@ int main()
     cout << "Seconds in day = " << day << endl;
     cout << "Seconds in week = " << week << endl;
     cout << "Seconds in year = " << year << endl;
+    
     return 0;
+    
 }
