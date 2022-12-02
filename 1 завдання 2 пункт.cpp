@@ -24,6 +24,7 @@ int main()
 
 	cout << "Old price of the second product = " << b << endl;
 	cout << "New price of the second product = " << b1 << endl;
+	
 	return 0;
 	
 }
