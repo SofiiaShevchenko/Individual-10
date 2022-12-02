@@ -1,4 +1,4 @@
-﻿// Завдання 5
+// Завдання 5
 // 13 варіант
 
 #define _USE_MATH_DEFINES
@@ -34,5 +34,7 @@ int main()
     x = ((pow(sin(y), 2) + 0.3 * d) / (pow(M_E, y) + log(d)));  
 
         cout << "Result x = " << x << endl;
+    
+    return 0;
 
 }
